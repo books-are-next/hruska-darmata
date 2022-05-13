@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="167ff939-7ba0-4567-821f-1ccc599d0197"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Darmata</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Pořádného tuňáka</text>
+      </navLabel>
+      <content src="Text/darmata_005.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>(A viděl jsem)</text>
+      </navLabel>
+      <content src="Text/darmata_006.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Sýkora</text>
+      </navLabel>
+      <content src="Text/darmata_007.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Chlapče</text>
+      </navLabel>
+      <content src="Text/darmata_008.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Bota</text>
+      </navLabel>
+      <content src="Text/darmata_009.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Štěkot</text>
+      </navLabel>
+      <content src="Text/darmata_010.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Prsa</text>
+      </navLabel>
+      <content src="Text/darmata_011.html"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Řeknu ti</text>
+      </navLabel>
+      <content src="Text/darmata_012.html"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Škrábnutí</text>
+      </navLabel>
+      <content src="Text/darmata_013.html"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Přebytek otce</text>
+      </navLabel>
+      <content src="Text/darmata_014.html"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>(A viděl jsem)</text>
+      </navLabel>
+      <content src="Text/darmata_015.html"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Řeknu víc</text>
+      </navLabel>
+      <content src="Text/darmata_016.html"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Duben</text>
+      </navLabel>
+      <content src="Text/darmata_017.html"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Před jeskyní</text>
+      </navLabel>
+      <content src="Text/darmata_018.html"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Mlčící</text>
+      </navLabel>
+      <content src="Text/darmata_019.html"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Odpověz</text>
+      </navLabel>
+      <content src="Text/darmata_020.html"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Zase my dva</text>
+      </navLabel>
+      <content src="Text/darmata_021.html"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Odhlučnění</text>
+      </navLabel>
+      <content src="Text/darmata_022.html"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Dcera</text>
+      </navLabel>
+      <content src="Text/darmata_023.html"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>… se svěřují do péče matky</text>
+      </navLabel>
+      <content src="Text/darmata_024.html"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>(A viděl jsem)</text>
+      </navLabel>
+      <content src="Text/darmata_025.html"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Ubikace</text>
+      </navLabel>
+      <content src="Text/darmata_026.html"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Obrys</text>
+      </navLabel>
+      <content src="Text/darmata_027.html"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Linka</text>
+      </navLabel>
+      <content src="Text/darmata_028.html"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Palivo</text>
+      </navLabel>
+      <content src="Text/darmata_029.html"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>U hajzlu</text>
+      </navLabel>
+      <content src="Text/darmata_030.html"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>O život</text>
+      </navLabel>
+      <content src="Text/darmata_031.html"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Herny</text>
+      </navLabel>
+      <content src="Text/darmata_032.html"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Zdarma</text>
+      </navLabel>
+      <content src="Text/darmata_033.html"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>(A viděl jsem)</text>
+      </navLabel>
+      <content src="Text/darmata_034.html"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Sněžný den</text>
+      </navLabel>
+      <content src="Text/darmata_035.html"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Návrat</text>
+      </navLabel>
+      <content src="Text/darmata_036.html"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Chodba</text>
+      </navLabel>
+      <content src="Text/darmata_037.html"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Průhled</text>
+      </navLabel>
+      <content src="Text/darmata_038.html"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>I</text>
+      </navLabel>
+      <content src="Text/darmata_039.html"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>Škrt</text>
+      </navLabel>
+      <content src="Text/darmata_040.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,356 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Darmata",
+    "identifier": "167ff939-7ba0-4567-821f-1ccc599d0197",
+    "author": "Petr Hruška",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2020-03-18T00:00:00.000Z",
+    "published": "2020-03-19T00:00:00.000Z",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_001.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_002.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_003.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_004.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_005.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_006.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_007.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_008.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_009.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_010.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_011.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_012.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_013.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_014.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_015.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_016.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_017.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_018.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_019.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_020.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_021.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_022.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_023.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_024.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_025.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_026.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_027.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_028.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_029.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_030.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_031.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_032.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_033.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_034.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_035.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_036.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_037.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_038.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_039.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_040.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/darmata_041.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image002.png"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Pořádného tuňáka",
+      "href": "OEBPS/Text/darmata_005.html"
+    },
+    {
+      "title": "(A viděl jsem)",
+      "href": "OEBPS/Text/darmata_006.html"
+    },
+    {
+      "title": "Sýkora",
+      "href": "OEBPS/Text/darmata_007.html"
+    },
+    {
+      "title": "Chlapče",
+      "href": "OEBPS/Text/darmata_008.html"
+    },
+    {
+      "title": "Bota",
+      "href": "OEBPS/Text/darmata_009.html"
+    },
+    {
+      "title": "Štěkot",
+      "href": "OEBPS/Text/darmata_010.html"
+    },
+    {
+      "title": "Prsa",
+      "href": "OEBPS/Text/darmata_011.html"
+    },
+    {
+      "title": "Řeknu ti",
+      "href": "OEBPS/Text/darmata_012.html"
+    },
+    {
+      "title": "Škrábnutí",
+      "href": "OEBPS/Text/darmata_013.html"
+    },
+    {
+      "title": "Přebytek otce",
+      "href": "OEBPS/Text/darmata_014.html"
+    },
+    {
+      "title": "(A viděl jsem)",
+      "href": "OEBPS/Text/darmata_015.html"
+    },
+    {
+      "title": "Řeknu víc",
+      "href": "OEBPS/Text/darmata_016.html"
+    },
+    {
+      "title": "Duben",
+      "href": "OEBPS/Text/darmata_017.html"
+    },
+    {
+      "title": "Před jeskyní",
+      "href": "OEBPS/Text/darmata_018.html"
+    },
+    {
+      "title": "Mlčící",
+      "href": "OEBPS/Text/darmata_019.html"
+    },
+    {
+      "title": "Odpověz",
+      "href": "OEBPS/Text/darmata_020.html"
+    },
+    {
+      "title": "Zase my dva",
+      "href": "OEBPS/Text/darmata_021.html"
+    },
+    {
+      "title": "Odhlučnění",
+      "href": "OEBPS/Text/darmata_022.html"
+    },
+    {
+      "title": "Dcera",
+      "href": "OEBPS/Text/darmata_023.html"
+    },
+    {
+      "title": "… se svěřují do péče matky",
+      "href": "OEBPS/Text/darmata_024.html"
+    },
+    {
+      "title": "(A viděl jsem)",
+      "href": "OEBPS/Text/darmata_025.html"
+    },
+    {
+      "title": "Ubikace",
+      "href": "OEBPS/Text/darmata_026.html"
+    },
+    {
+      "title": "Obrys",
+      "href": "OEBPS/Text/darmata_027.html"
+    },
+    {
+      "title": "Linka",
+      "href": "OEBPS/Text/darmata_028.html"
+    },
+    {
+      "title": "Palivo",
+      "href": "OEBPS/Text/darmata_029.html"
+    },
+    {
+      "title": "U hajzlu",
+      "href": "OEBPS/Text/darmata_030.html"
+    },
+    {
+      "title": "O život",
+      "href": "OEBPS/Text/darmata_031.html"
+    },
+    {
+      "title": "Herny",
+      "href": "OEBPS/Text/darmata_032.html"
+    },
+    {
+      "title": "Zdarma",
+      "href": "OEBPS/Text/darmata_033.html"
+    },
+    {
+      "title": "(A viděl jsem)",
+      "href": "OEBPS/Text/darmata_034.html"
+    },
+    {
+      "title": "Sněžný den",
+      "href": "OEBPS/Text/darmata_035.html"
+    },
+    {
+      "title": "Návrat",
+      "href": "OEBPS/Text/darmata_036.html"
+    },
+    {
+      "title": "Chodba",
+      "href": "OEBPS/Text/darmata_037.html"
+    },
+    {
+      "title": "Průhled",
+      "href": "OEBPS/Text/darmata_038.html"
+    },
+    {
+      "title": "I",
+      "href": "OEBPS/Text/darmata_039.html"
+    },
+    {
+      "title": "Škrt",
+      "href": "OEBPS/Text/darmata_040.html"
+    }
+  ]
+}
