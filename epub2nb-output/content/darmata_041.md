@@ -2,8 +2,8 @@
 contentType: prose
 ---
 
-Petr Hruška  
-Darmata
+**Petr Hruška  
+Darmata**
 
 Ilustrace na obálce KRs Studio/Shutterstock.com
 

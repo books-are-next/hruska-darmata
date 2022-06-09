@@ -38,8 +38,8 @@ přes kalné peřeje
 a nebylo ti rozumět,  
 znělo to jako
 
-Darmata!  
-Ochcaná darmata!
+_Darmata!  
+Ochcaná darmata!_
 
 Řeka byla strašně dlouhá,  
 řval jsi na mě,  

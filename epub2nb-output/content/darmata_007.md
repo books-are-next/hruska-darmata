@@ -12,4 +12,4 @@ z rozdělených rodin.
 Sýkora vletěla do mého strachu z toho,  
 že kdybych teď umřel,  
 bylo poslední moje slovo  
-lůj.
+_lůj._

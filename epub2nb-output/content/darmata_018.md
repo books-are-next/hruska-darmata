@@ -16,7 +16,7 @@ nedotčená bílá zjevení
 Ale ty  
 jako strašlivě staré dítě,  
 ruce v sobě, nejde to.  
-Nic, opakuješ, nic.  
+_Nic_, opakuješ, _nic_.  
 Jako bys právě šacovala nazpátek  
 celou minulost.  
 Jako bys cosi horečně hledala po  
