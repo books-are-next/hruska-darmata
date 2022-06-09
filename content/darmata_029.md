@@ -17,6 +17,6 @@ na celé vyrabované město
 na celý vybrakovaný život  
 zavřeš  
 a v prosinci házíš do kamen  
-jmenuje se to Ostravská raketa  
+jmenuje se to _Ostravská raketa_  
 poznáš ji podle hustočerného dýmu  
 a neurvalého tepla

@@ -22,7 +22,7 @@ Obitý roh jak tudy stěhoval
 klavír opilosti  
 Z krabice sušenek  
 odtržený psík  
-se slovem SVÁTEČNÍ
+se slovem _SVÁTEČNÍ_
 
 Ne Tihle lidé  
 nebývají daleko

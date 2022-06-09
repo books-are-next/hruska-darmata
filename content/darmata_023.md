@@ -4,9 +4,9 @@ contentType: prose
 
 ## Dcera
 
-Doufám, že mě po cestě  
+_Doufám, že mě po cestě  
 pro ten chleba  
-srazí auto!  
+srazí auto!_  
 křikla jsi  
 dovnitř domácnosti
 

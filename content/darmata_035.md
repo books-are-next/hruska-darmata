@@ -13,4 +13,4 @@ zlodějským apetitem,
 s úsporami,  
 hlučnými bufami  
 a občas slabě zaslechnutelným  
-buďsemnou.
+_buďsemnou._

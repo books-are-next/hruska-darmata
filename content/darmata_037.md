@@ -14,8 +14,8 @@ stejně jako kytky v mezaninech
 co vydrží všechno  
 a téměř nekvetou
 
-Tak počkej přece!  
-Pro koho?
+_Tak počkej přece!  
+Pro koho?_
 
 Občas odspodu nahoru  
 rozpárá tmu domu  

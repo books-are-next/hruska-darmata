@@ -4,7 +4,7 @@ contentType: prose
 
 ## Duben
 
-Sixtinská kaple…zaklel někdo ráno za skladem  
+_Sixtinská kaple…_zaklel někdo ráno za skladem  
 Vítr to popadl  
 a odnášel  
 ale zatrhlo se to o holý bez  
