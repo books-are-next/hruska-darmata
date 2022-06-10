@@ -1,8 +1,9 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 A viděl jsem,  
 jak vyzáblý  
@@ -22,3 +23,5 @@ Odehnán vrženým odpadkem
 brzy zase přibíhá  
 a uléhá neomylně  
 do středu.
+
+</section>

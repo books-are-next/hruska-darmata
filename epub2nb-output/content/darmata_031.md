@@ -1,8 +1,9 @@
 ---
+title: "O\_život"
 contentType: prose
 ---
 
-## O život
+<section>
 
 Pokud vím, Adame, říkal jsi, že máš strach o život.  
 Že jsi musel platit její dluhy, její pokuty i její pojištění.  
@@ -17,3 +18,5 @@ A jak jsi tam nakonec musel nechat i pracovní boty,
 Tak co tu teď meleš o ženské zimě  
 a nové hromadě  
 krásného kradeného dřeva…
+
+</section>

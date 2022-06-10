@@ -1,8 +1,9 @@
 ---
+title: "…\_se svěřují do péče matky"
 contentType: prose
 ---
 
-## … se svěřují do péče matky
+<section>
 
 Říjen je měsícem plevelů,  
 vysokých jako dospělá postava.  
@@ -25,3 +26,5 @@ Neztratit ruce.
 Věřím,  
 že stébla z váz osamělých  
 skláněl stejný vítr.
+
+</section>

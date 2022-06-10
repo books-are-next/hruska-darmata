@@ -1,8 +1,9 @@
 ---
+title: Prsa
 contentType: prose
 ---
 
-## Prsa
+<section>
 
 Nejprve uklidila celý pokoj.  
 Pak si umyla ruce.  
@@ -38,3 +39,5 @@ vstoupila z pokoje moje dcera,
 ve večerních šatech  
 přes bílou záři,  
 kterou už nikdy neuvidím.
+
+</section>

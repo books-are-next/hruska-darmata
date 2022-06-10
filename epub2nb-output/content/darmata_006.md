@@ -1,8 +1,9 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 A viděl jsem,  
 jak vyzáblý  
@@ -19,3 +20,5 @@ navlékli koženou rukavici s dravcem,
 Oba najednou  
 pocítili  
 živou váhu.
+
+</section>

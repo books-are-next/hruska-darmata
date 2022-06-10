@@ -1,11 +1,14 @@
 ---
+title: Linka
 contentType: prose
 ---
 
-## Linka
+<section>
 
 tmavá linka na střepu  
 mínojské keramiky
 
 ještě neříkej —  
 _s tebou to nebyl život_
+
+</section>

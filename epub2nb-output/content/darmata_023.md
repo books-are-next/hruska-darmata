@@ -1,8 +1,9 @@
 ---
+title: Dcera
 contentType: prose
 ---
 
-## Dcera
+<section>
 
 _Doufám, že mě po cestě  
 pro ten chleba  
@@ -22,3 +23,5 @@ tvrdé a bílé jako stěna
 a připrav se —
 
 budeme dlouho jíst
+
+</section>

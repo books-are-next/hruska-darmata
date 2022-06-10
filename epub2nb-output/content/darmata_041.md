@@ -1,6 +1,9 @@
 ---
+title: ''
 contentType: prose
 ---
+
+<section>
 
 **Petr Hruška  
 Darmata**
@@ -22,3 +25,5 @@ ISBN 978-80-274-0623-4 (epub)
 ISBN 978-80-274-0624-1 (pdf)
 
 ISBN 978-80-274-0625-8 (prc)
+
+</section>

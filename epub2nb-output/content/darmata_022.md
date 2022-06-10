@@ -1,8 +1,9 @@
 ---
+title: Odhlučnění
 contentType: prose
 ---
 
-## Odhlučnění
+<section>
 
 Siluety dravých ptáků  
 na skle  
@@ -11,3 +12,5 @@ hledá kořist
 Firma dole nabízí rozesílání  
 našich e-mailů  
 po naší smrti
+
+</section>

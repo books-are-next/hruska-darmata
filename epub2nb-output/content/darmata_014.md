@@ -1,8 +1,9 @@
 ---
+title: Přebytek otce
 contentType: prose
 ---
 
-## Přebytek otce
+<section>
 
 To maso,  
 to nadbytečné těžké maso otce,  
@@ -27,3 +28,5 @@ kdy se co ozve.
 A teď se hrne sem,  
 do vašeho odrůstání,  
 přebytek otce.
+
+</section>

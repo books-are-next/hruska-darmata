@@ -1,8 +1,9 @@
 ---
+title: Obrys
 contentType: prose
 ---
 
-## Obrys
+<section>
 
 Máš čtvrtmilion,  
 Adame.  
@@ -28,3 +29,5 @@ když mizíš
 v prázdné barabizně podzimu  
 za plotem pocintaným  
 psím vínem.
+
+</section>

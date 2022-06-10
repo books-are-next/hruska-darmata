@@ -1,8 +1,9 @@
 ---
+title: Škrt
 contentType: prose
 ---
 
-## Škrt
+<section>
 
 Chtěl jsem dokončit.  
 Chtěl jsem to všechno nějak mít,  
@@ -23,3 +24,5 @@ jenom spící,
 uvláčenou hádkami a doufáním,  
 jednu ruku položenou na hrudi  
 jak bílý škrt.
+
+</section>

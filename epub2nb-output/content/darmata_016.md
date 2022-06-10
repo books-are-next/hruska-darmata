@@ -1,8 +1,9 @@
 ---
+title: Řeknu víc
 contentType: prose
 ---
 
-## Řeknu víc
+<section>
 
 podle e-mailu
 
@@ -28,3 +29,5 @@ hodně věcech v životě, díky. Budu
 čekat slyšet —  
 Vy spřátelený  
 Jessy
+
+</section>

@@ -1,8 +1,9 @@
 ---
+title: Herny
 contentType: prose
 ---
 
-## Herny
+<section>
 
 Rio nebo Vegas  
 koukej se rozhodnout  
@@ -14,3 +15,5 @@ a pes
 
 na schodu před Riem  
 srdce cihlou
+
+</section>

@@ -1,8 +1,9 @@
 ---
+title: "U\_hajzlu"
 contentType: prose
 ---
 
-## U hajzlu
+<section>
 
 Až vzadu  
 za výhrami automatů  
@@ -20,3 +21,5 @@ všichni vepředu co věděli
 rozhodně nejednají správně  
 tenkrát raději  
 nechcali
+
+</section>

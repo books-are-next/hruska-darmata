@@ -1,8 +1,9 @@
 ---
+title: Bota
 contentType: prose
 ---
 
-## Bota
+<section>
 
 Sundej tu botu.  
 Poslední dětské číslo.  
@@ -22,3 +23,5 @@ slepenou podrážku stáhneme tkanicemi.
 Svištící noc,  
 bláznivě svázaná bota.  
 Poslední dětské číslo.
+
+</section>

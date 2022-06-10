@@ -1,8 +1,9 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
 A viděl jsem,  
 jak vyzáblý  
@@ -20,3 +21,5 @@ kterým se rozevřou složená křídla
 a sepranou oddaností  
 dosednou  
 na odrané stoly.
+
+</section>

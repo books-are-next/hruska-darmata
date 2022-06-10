@@ -1,8 +1,9 @@
 ---
+title: Před jeskyní
 contentType: prose
 ---
 
-## Před jeskyní
+<section>
 
 Nahoře,  
 na cestě do ledové jeskyně,  
@@ -33,3 +34,5 @@ Jsi jenom z velmi tmavých očí
 nedaleko nespatřeného ledu.  
 Pomalu  
 se obrátíš ke mně.
+
+</section>
