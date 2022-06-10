@@ -1,8 +1,9 @@
 ---
+title: Odpověz
 contentType: prose
 ---
 
-## Odpověz
+<section>
 
 podle e-mailu
 
@@ -27,3 +28,5 @@ i wanted poslat foto u davno, ale bál jsem se,
 že u nelíbí, že me vidí.  
 kontrolu odkazu U viz foto, doufám, že u to  
 líbí
+
+</section>

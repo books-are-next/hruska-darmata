@@ -1,8 +1,9 @@
 ---
+title: Zase my dva
 contentType: prose
 ---
 
-## Zase my dva
+<section>
 
 Prodrali jsme se odpoledním  
 mokrým listím.  
@@ -15,3 +16,5 @@ anebo směr.
 Ne.  
 My dva,  
 mokří odpoledním listím.
+
+</section>

@@ -1,8 +1,9 @@
 ---
+title: Chodba
 contentType: prose
 ---
 
-## Chodba
+<section>
 
 Chodba v baráku  
 nikoho nezajímá  
@@ -21,3 +22,5 @@ Občas odspodu nahoru
 rozpárá tmu domu  
 společné studené světlo  
 které všichni platí
+
+</section>

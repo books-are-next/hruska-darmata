@@ -1,8 +1,9 @@
 ---
+title: Průhled
 contentType: prose
 ---
 
-## Průhled
+<section>
 
 jako ve starém holandském obrazu  
 spatří otevřenými dveřmi  
@@ -13,3 +14,5 @@ stojící na studených dlaždicích
 ve skloněném vytrvání nad  
 nehybným praménkem  
 domácí vody
+
+</section>

@@ -1,8 +1,9 @@
 ---
+title: Chlapče
 contentType: prose
 ---
 
-## Chlapče
+<section>
 
 Chlapče!  
 Viděl jsi mě,  
@@ -75,3 +76,5 @@ podobným matčinu rukopisu.
 Lhal jsem.  
 Jen rajčata na betonu  
 jsou pravda.
+
+</section>

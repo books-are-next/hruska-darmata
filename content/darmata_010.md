@@ -1,8 +1,9 @@
 ---
+title: Štěkot
 contentType: prose
 ---
 
-## Štěkot
+<section>
 
 Matka se dívá,  
 jak syn zase napodobuje retrívra.  
@@ -19,3 +20,5 @@ Syn zapřený o stůl,
 matka nehybně naslouchající,  
 kam až tu doléhá  
 štěkot retrívra.
+
+</section>

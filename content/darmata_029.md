@@ -1,8 +1,9 @@
 ---
+title: Palivo
 contentType: prose
 ---
 
-## Palivo
+<section>
 
 Vezmeš piliny  
 co zůstaly po stromech  
@@ -20,3 +21,5 @@ a v prosinci házíš do kamen
 jmenuje se to _Ostravská raketa_  
 poznáš ji podle hustočerného dýmu  
 a neurvalého tepla
+
+</section>

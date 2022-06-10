@@ -1,8 +1,9 @@
 ---
+title: Pořádného tuňáka
 contentType: prose
 ---
 
-## Pořádného tuňáka
+<section>
 
 Janu Balabánovi
 
@@ -30,3 +31,5 @@ seprané volány domácího ticha
 až si najednou vzpomeneme  
 co všechno jsme tady sakra  
 chtěli
+
+</section>

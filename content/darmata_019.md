@@ -1,8 +1,9 @@
 ---
+title: Mlčící
 contentType: prose
 ---
 
-## Mlčící
+<section>
 
 To je on.  
 Stává se to.  
@@ -29,3 +30,5 @@ většinou jen přidají na síle,
 rozhazují ruce  
 a mluví teď úporněji a víc,  
 i za něho.
+
+</section>

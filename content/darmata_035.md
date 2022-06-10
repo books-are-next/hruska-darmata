@@ -1,8 +1,9 @@
 ---
+title: Sněžný den
 contentType: prose
 ---
 
-## Sněžný den
+<section>
 
 Rozhrň krajky větví.  
 Uvnitř mokvají  
@@ -14,3 +15,5 @@ s úsporami,
 hlučnými bufami  
 a občas slabě zaslechnutelným  
 _buďsemnou._
+
+</section>

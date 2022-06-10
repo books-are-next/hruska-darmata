@@ -1,8 +1,9 @@
 ---
+title: Řeknu ti
 contentType: prose
 ---
 
-## Řeknu ti
+<section>
 
 z odposlechnutého rozhovoru dvou chlapců
 
@@ -38,3 +39,5 @@ ale můžeš si sehnat bytosti
 řeknu ti takhle:  
 našel jsi obrovské skladiště životů  
 sedneš si na šutr a čekáš
+
+</section>

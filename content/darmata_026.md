@@ -1,8 +1,9 @@
 ---
+title: Ubikace
 contentType: prose
 ---
 
-## Ubikace
+<section>
 
 Černé slunce  
 jednoplotýnkového vařiče  
@@ -26,3 +27,5 @@ se slovem _SVÁTEČNÍ_
 
 Ne Tihle lidé  
 nebývají daleko
+
+</section>

@@ -1,8 +1,9 @@
 ---
+title: Sýkora
 contentType: prose
 ---
 
-## Sýkora
+<section>
 
 První sníh všechno zvýraznil.  
 Svobodu křovin.  
@@ -13,3 +14,5 @@ Sýkora vletěla do mého strachu z toho,
 že kdybych teď umřel,  
 bylo poslední moje slovo  
 _lůj._
+
+</section>
