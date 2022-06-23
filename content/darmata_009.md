@@ -1,6 +1,6 @@
 ---
 title: Bota
-contentType: prose
+contentType: poetry
 ---
 
 <section>

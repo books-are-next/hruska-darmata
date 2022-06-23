@@ -1,6 +1,6 @@
 ---
 title: "U\_hajzlu"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

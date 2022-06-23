@@ -1,6 +1,6 @@
 ---
 title: Palivo
-contentType: prose
+contentType: poetry
 ---
 
 <section>

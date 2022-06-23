@@ -1,6 +1,6 @@
 ---
 title: Chlapče
-contentType: prose
+contentType: poetry
 ---
 
 <section>

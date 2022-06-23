@@ -1,6 +1,6 @@
 ---
 title: Návrat
-contentType: prose
+contentType: poetry
 ---
 
 <section>

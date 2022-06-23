@@ -1,6 +1,6 @@
 ---
 title: Obrys
-contentType: prose
+contentType: poetry
 ---
 
 <section>

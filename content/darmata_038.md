@@ -1,6 +1,6 @@
 ---
 title: Průhled
-contentType: prose
+contentType: poetry
 ---
 
 <section>

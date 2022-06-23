@@ -1,6 +1,6 @@
 ---
 title: Sýkora
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Přebytek otce
-contentType: prose
+contentType: poetry
 ---
 
 <section>

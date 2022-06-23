@@ -1,6 +1,6 @@
 ---
 title: Před jeskyní
-contentType: prose
+contentType: poetry
 ---
 
 <section>

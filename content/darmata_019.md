@@ -1,6 +1,6 @@
 ---
 title: Mlčící
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Zase my dva
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Zdarma
-contentType: prose
+contentType: poetry
 ---
 
 <section>

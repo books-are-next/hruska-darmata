@@ -1,6 +1,6 @@
 ---
 title: Řeknu víc
-contentType: prose
+contentType: poetry
 ---
 
 <section>

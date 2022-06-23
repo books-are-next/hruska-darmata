@@ -1,6 +1,6 @@
 ---
 title: Ubikace
-contentType: prose
+contentType: poetry
 ---
 
 <section>

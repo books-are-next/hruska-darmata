@@ -1,6 +1,6 @@
 ---
 title: Chodba
-contentType: prose
+contentType: poetry
 ---
 
 <section>

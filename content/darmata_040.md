@@ -1,6 +1,6 @@
 ---
 title: Škrt
-contentType: prose
+contentType: poetry
 ---
 
 <section>

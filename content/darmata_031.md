@@ -1,6 +1,6 @@
 ---
 title: "O\_život"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
