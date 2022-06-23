@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-Janu Balabánovi
+_Janu Balabánovi_
 
 Pořádného tuňáka  
 aby s námi otřáslo  

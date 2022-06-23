@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-podle e-mailu
+_podle e-mailu_
 
 Dobrý  
 den, můj milý,  
