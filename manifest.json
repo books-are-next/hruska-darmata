@@ -1,0 +1,823 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Darmata",
+  "author": "Petr Hruška",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "hruska-darmata-58076f9",
+  "revision": "58076f9",
+  "readingOrder": [
+    "promo.html",
+    "darmata_005.html",
+    "darmata_006.html",
+    "darmata_007.html",
+    "darmata_008.html",
+    "darmata_009.html",
+    "darmata_010.html",
+    "darmata_011.html",
+    "darmata_012.html",
+    "darmata_013.html",
+    "darmata_014.html",
+    "darmata_015.html",
+    "darmata_016.html",
+    "darmata_017.html",
+    "darmata_018.html",
+    "darmata_019.html",
+    "darmata_020.html",
+    "darmata_021.html",
+    "darmata_022.html",
+    "darmata_023.html",
+    "darmata_024.html",
+    "darmata_025.html",
+    "darmata_026.html",
+    "darmata_027.html",
+    "darmata_028.html",
+    "darmata_029.html",
+    "darmata_030.html",
+    "darmata_031.html",
+    "darmata_032.html",
+    "darmata_033.html",
+    "darmata_034.html",
+    "darmata_035.html",
+    "darmata_036.html",
+    "darmata_037.html",
+    "darmata_038.html",
+    "darmata_039.html",
+    "darmata_040.html",
+    "colophon.html"
+  ],
+  "generatedAt": {
+    "date": "Thu Jun 23 2022 08:51:27 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655974287221
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "darmata_005.html",
+      "toc": []
+    },
+    {
+      "title": "Pořádného tuňáka",
+      "file": "darmata_005.html",
+      "words": 88,
+      "chars": 540,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "darmata_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pořádného tuňáka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "darmata_006.html",
+      "words": 47,
+      "chars": 270,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 2,
+      "prev": "darmata_005.html",
+      "next": "darmata_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sýkora",
+      "file": "darmata_007.html",
+      "words": 32,
+      "chars": 206,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 3,
+      "prev": "darmata_006.html",
+      "next": "darmata_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sýkora",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chlapče",
+      "file": "darmata_008.html",
+      "words": 218,
+      "chars": 1168,
+      "ideas": 63,
+      "role": "chapter",
+      "order": 4,
+      "prev": "darmata_007.html",
+      "next": "darmata_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Chlapče",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bota",
+      "file": "darmata_009.html",
+      "words": 68,
+      "chars": 438,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 5,
+      "prev": "darmata_008.html",
+      "next": "darmata_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bota",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Štěkot",
+      "file": "darmata_010.html",
+      "words": 53,
+      "chars": 315,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 6,
+      "prev": "darmata_009.html",
+      "next": "darmata_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Štěkot",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Prsa",
+      "file": "darmata_011.html",
+      "words": 111,
+      "chars": 707,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 7,
+      "prev": "darmata_010.html",
+      "next": "darmata_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Prsa",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Řeknu ti",
+      "file": "darmata_012.html",
+      "words": 131,
+      "chars": 692,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 8,
+      "prev": "darmata_011.html",
+      "next": "darmata_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Řeknu ti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Škrábnutí",
+      "file": "darmata_013.html",
+      "words": 60,
+      "chars": 382,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 9,
+      "prev": "darmata_012.html",
+      "next": "darmata_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Škrábnutí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Přebytek otce",
+      "file": "darmata_014.html",
+      "words": 70,
+      "chars": 404,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 10,
+      "prev": "darmata_013.html",
+      "next": "darmata_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Přebytek otce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "darmata_015.html",
+      "words": 55,
+      "chars": 303,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 11,
+      "prev": "darmata_014.html",
+      "next": "darmata_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Řeknu víc",
+      "file": "darmata_016.html",
+      "words": 85,
+      "chars": 474,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 12,
+      "prev": "darmata_015.html",
+      "next": "darmata_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Řeknu víc",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Duben",
+      "file": "darmata_017.html",
+      "words": 52,
+      "chars": 290,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 13,
+      "prev": "darmata_016.html",
+      "next": "darmata_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Duben",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Před jeskyní",
+      "file": "darmata_018.html",
+      "words": 102,
+      "chars": 618,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 14,
+      "prev": "darmata_017.html",
+      "next": "darmata_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Před jeskyní",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mlčící",
+      "file": "darmata_019.html",
+      "words": 80,
+      "chars": 433,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 15,
+      "prev": "darmata_018.html",
+      "next": "darmata_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mlčící",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Odpověz",
+      "file": "darmata_020.html",
+      "words": 96,
+      "chars": 559,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 16,
+      "prev": "darmata_019.html",
+      "next": "darmata_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Odpověz",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zase my dva",
+      "file": "darmata_021.html",
+      "words": 32,
+      "chars": 185,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 17,
+      "prev": "darmata_020.html",
+      "next": "darmata_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zase my dva",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Odhlučnění",
+      "file": "darmata_022.html",
+      "words": 22,
+      "chars": 136,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 18,
+      "prev": "darmata_021.html",
+      "next": "darmata_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Odhlučnění",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dcera",
+      "file": "darmata_023.html",
+      "words": 48,
+      "chars": 227,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 19,
+      "prev": "darmata_022.html",
+      "next": "darmata_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dcera",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "… se svěřují do péče matky",
+      "file": "darmata_024.html",
+      "words": 59,
+      "chars": 351,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 20,
+      "prev": "darmata_023.html",
+      "next": "darmata_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "… se svěřují do péče matky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "darmata_025.html",
+      "words": 53,
+      "chars": 303,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 21,
+      "prev": "darmata_024.html",
+      "next": "darmata_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ubikace",
+      "file": "darmata_026.html",
+      "words": 48,
+      "chars": 287,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 22,
+      "prev": "darmata_025.html",
+      "next": "darmata_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ubikace",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Obrys",
+      "file": "darmata_027.html",
+      "words": 71,
+      "chars": 410,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 23,
+      "prev": "darmata_026.html",
+      "next": "darmata_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Obrys",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Linka",
+      "file": "darmata_028.html",
+      "words": 15,
+      "chars": 80,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 24,
+      "prev": "darmata_027.html",
+      "next": "darmata_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Linka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Palivo",
+      "file": "darmata_029.html",
+      "words": 52,
+      "chars": 314,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 25,
+      "prev": "darmata_028.html",
+      "next": "darmata_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Palivo",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "U hajzlu",
+      "file": "darmata_030.html",
+      "words": 53,
+      "chars": 295,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 26,
+      "prev": "darmata_029.html",
+      "next": "darmata_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "U hajzlu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O život",
+      "file": "darmata_031.html",
+      "words": 99,
+      "chars": 530,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 27,
+      "prev": "darmata_030.html",
+      "next": "darmata_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O život",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Herny",
+      "file": "darmata_032.html",
+      "words": 28,
+      "chars": 157,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 28,
+      "prev": "darmata_031.html",
+      "next": "darmata_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Herny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zdarma",
+      "file": "darmata_033.html",
+      "words": 42,
+      "chars": 237,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 29,
+      "prev": "darmata_032.html",
+      "next": "darmata_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zdarma",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "darmata_034.html",
+      "words": 59,
+      "chars": 328,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 30,
+      "prev": "darmata_033.html",
+      "next": "darmata_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sněžný den",
+      "file": "darmata_035.html",
+      "words": 24,
+      "chars": 168,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 31,
+      "prev": "darmata_034.html",
+      "next": "darmata_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sněžný den",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Návrat",
+      "file": "darmata_036.html",
+      "words": 44,
+      "chars": 243,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 32,
+      "prev": "darmata_035.html",
+      "next": "darmata_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Návrat",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chodba",
+      "file": "darmata_037.html",
+      "words": 46,
+      "chars": 280,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 33,
+      "prev": "darmata_036.html",
+      "next": "darmata_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Chodba",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Průhled",
+      "file": "darmata_038.html",
+      "words": 31,
+      "chars": 203,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 34,
+      "prev": "darmata_037.html",
+      "next": "darmata_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Průhled",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I",
+      "file": "darmata_039.html",
+      "words": 41,
+      "chars": 214,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 35,
+      "prev": "darmata_038.html",
+      "next": "darmata_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Škrt",
+      "file": "darmata_040.html",
+      "words": 74,
+      "chars": 429,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 36,
+      "prev": "darmata_039.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Škrt",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 126,
+      "chars": 820,
+      "ideas": 14,
+      "role": "colophon",
+      "order": null,
+      "prev": "darmata_040.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 2420,
+      "chars": 14023,
+      "ideas": 699
+    },
+    "chapters": {
+      "words": 2289,
+      "chars": 13176,
+      "ideas": 681
+    }
+  }
+}

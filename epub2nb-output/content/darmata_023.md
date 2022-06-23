@@ -1,6 +1,6 @@
 ---
 title: Dcera
-contentType: prose
+contentType: poetry
 ---
 
 <section>

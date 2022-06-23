@@ -1,6 +1,6 @@
 ---
 title: Pořádného tuňáka
-contentType: prose
+contentType: poetry
 ---
 
 <section>

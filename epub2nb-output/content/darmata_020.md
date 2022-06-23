@@ -1,6 +1,6 @@
 ---
 title: Odpověz
-contentType: prose
+contentType: poetry
 ---
 
 <section>

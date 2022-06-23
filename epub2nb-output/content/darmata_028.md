@@ -1,6 +1,6 @@
 ---
 title: Linka
-contentType: prose
+contentType: poetry
 ---
 
 <section>

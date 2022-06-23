@@ -1,6 +1,6 @@
 ---
 title: Odhlučnění
-contentType: prose
+contentType: poetry
 ---
 
 <section>

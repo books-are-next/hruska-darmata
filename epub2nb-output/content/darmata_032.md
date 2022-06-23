@@ -1,6 +1,6 @@
 ---
 title: Herny
-contentType: prose
+contentType: poetry
 ---
 
 <section>

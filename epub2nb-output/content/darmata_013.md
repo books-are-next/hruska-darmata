@@ -1,6 +1,6 @@
 ---
 title: Škrábnutí
-contentType: prose
+contentType: poetry
 ---
 
 <section>

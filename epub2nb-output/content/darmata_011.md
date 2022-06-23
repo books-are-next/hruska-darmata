@@ -1,6 +1,6 @@
 ---
 title: Prsa
-contentType: prose
+contentType: poetry
 ---
 
 <section>

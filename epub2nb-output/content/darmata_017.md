@@ -1,6 +1,6 @@
 ---
 title: Duben
-contentType: prose
+contentType: poetry
 ---
 
 <section>

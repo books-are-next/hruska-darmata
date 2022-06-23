@@ -1,6 +1,6 @@
 ---
 title: Štěkot
-contentType: prose
+contentType: poetry
 ---
 
 <section>

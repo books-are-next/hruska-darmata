@@ -1,6 +1,6 @@
 ---
 title: "…\_se svěřují do péče matky"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

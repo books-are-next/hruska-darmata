@@ -1,6 +1,6 @@
 ---
 title: Řeknu ti
-contentType: prose
+contentType: poetry
 ---
 
 <section>

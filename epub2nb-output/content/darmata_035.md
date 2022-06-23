@@ -1,6 +1,6 @@
 ---
 title: Sněžný den
-contentType: prose
+contentType: poetry
 ---
 
 <section>
