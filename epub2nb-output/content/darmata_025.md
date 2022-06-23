@@ -1,6 +1,5 @@
 ---
 title: "*\_*\_*"
-hiddenTitle: true
 contentType: poetry
 ---
 
