@@ -60,7 +60,7 @@ tocBase:
         hiddenTitle: false
       - link: darmata_006.html
         title: (A viděl jsem)
-        hiddenTitle: true
+        hiddenTitle: false
       - link: darmata_007.html
         title: Sýkora
         hiddenTitle: false
@@ -87,7 +87,7 @@ tocBase:
         hiddenTitle: false
       - link: darmata_015.html
         title: (A viděl jsem)
-        hiddenTitle: true
+        hiddenTitle: false
       - link: darmata_016.html
         title: Řeknu víc
         hiddenTitle: false
@@ -117,7 +117,7 @@ tocBase:
         hiddenTitle: false
       - link: darmata_025.html
         title: (A viděl jsem)
-        hiddenTitle: true
+        hiddenTitle: false
       - link: darmata_026.html
         title: Ubikace
         hiddenTitle: false
