@@ -51,7 +51,7 @@ readingOrder:
   - darmata_038.html
   - darmata_039.html
   - darmata_040.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

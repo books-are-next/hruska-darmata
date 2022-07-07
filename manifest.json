@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hruska-darmata-09d9771",
-  "revision": "09d9771",
+  "identifier": "hruska-darmata-cf9a42e",
+  "revision": "cf9a42e",
   "readingOrder": [
     "promo.html",
     "darmata_005.html",
@@ -48,11 +48,11 @@
     "darmata_038.html",
     "darmata_039.html",
     "darmata_040.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:08:03 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978883497
+    "date": "Thu Jul 07 2022 08:27:41 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182461181
   },
   "documents": [
     {
@@ -401,7 +401,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Zase my dva",
+          "name": "Zase my dva",
           "id": null,
           "children": []
         }
@@ -461,7 +461,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "… se svěřují do péče matky",
+          "name": "… se svěřují do péče matky",
           "id": null,
           "children": []
         }
@@ -776,7 +776,7 @@
       "role": "chapter",
       "order": 36,
       "prev": "darmata_039.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -789,11 +789,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 126,
-      "chars": 820,
+      "chars": 819,
       "ideas": 14,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "darmata_040.html",
       "next": null,
@@ -811,7 +811,7 @@
   "totals": {
     "all": {
       "words": 2420,
-      "chars": 14023,
+      "chars": 14022,
       "ideas": 699
     },
     "chapters": {
