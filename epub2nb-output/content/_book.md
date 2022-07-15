@@ -113,7 +113,7 @@ tocBase:
         title: Dcera
         hiddenTitle: false
       - link: darmata_024.html
-        title: "…\_se svěřují do péče matky"
+        title: … se svěřují do péče matky
         hiddenTitle: false
       - link: darmata_025.html
         title: (A viděl jsem)
@@ -131,10 +131,10 @@ tocBase:
         title: Palivo
         hiddenTitle: false
       - link: darmata_030.html
-        title: "U\_hajzlu"
+        title: U hajzlu
         hiddenTitle: false
       - link: darmata_031.html
-        title: "O\_život"
+        title: O život
         hiddenTitle: false
       - link: darmata_032.html
         title: Herny

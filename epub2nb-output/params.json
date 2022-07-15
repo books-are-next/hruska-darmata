@@ -26,7 +26,7 @@
       "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
       "figure": "MLP.obrazky.*\nmlpobrazky",
       "centered": ".*uprostred.*",
-      "verse": "MLP.verse.*",
+      "verse": "MLP.verse.*\nmlpverse mlpversei ",
       "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei\nmlpcitat",
       "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
       "remove": "",
@@ -343,7 +343,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "… se svěřují do péče matky",
+            "title": "… se svěřují do péče matky",
             "children": []
           },
           {
@@ -421,7 +421,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "U hajzlu",
+            "title": "U hajzlu",
             "children": []
           },
           {
@@ -434,7 +434,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "O život",
+            "title": "O život",
             "children": []
           },
           {
@@ -892,6 +892,6 @@
       "user": "books-are-next",
       "repo": "hruska-darmata"
     },
-    "generatedAt": 1657185986518
+    "generatedAt": 1657873536437
   }
 }
