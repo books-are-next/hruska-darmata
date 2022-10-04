@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hruska-darmata-69338b7",
-  "revision": "69338b7",
+  "identifier": "hruska-darmata-ce50a1d",
+  "revision": "ce50a1d",
   "readingOrder": [
     "promo.html",
     "darmata_005.html",
@@ -51,8 +51,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 15:55:48 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664639748360
+    "date": "Tue Oct 04 2022 16:43:06 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664901786614
   },
   "documents": [
     {
@@ -790,9 +790,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 126,
+      "words": 125,
       "chars": 820,
-      "ideas": 14,
+      "ideas": 13,
       "role": "about",
       "order": null,
       "prev": "darmata_040.html",
@@ -810,9 +810,9 @@
   ],
   "totals": {
     "all": {
-      "words": 2420,
+      "words": 2419,
       "chars": 14023,
-      "ideas": 699
+      "ideas": 698
     },
     "chapters": {
       "words": 2289,
