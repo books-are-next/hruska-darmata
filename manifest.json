@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hruska-darmata-6cd4f1b",
-  "revision": "6cd4f1b",
+  "identifier": "hruska-darmata-29faeb4",
+  "revision": "29faeb4",
   "readingOrder": [
     "promo.html",
     "darmata_005.html",
@@ -51,8 +51,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 16:03:15 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665417795665
+    "date": "Fri Oct 21 2022 11:33:57 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666352037375
   },
   "documents": [
     {
