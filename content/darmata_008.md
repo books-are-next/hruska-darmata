@@ -37,7 +37,7 @@ Dneska u řeky
 řval jsi něco na mě  
 přes kalné peřeje  
 a nebylo ti rozumět,  
-znělo to jako
+znělo to jako  
 
 _Darmata!  
 Ochcaná darmata!_
