@@ -35,7 +35,7 @@ v oranžový kouř.
 
 Dneska u řeky  
 řval jsi něco na mě  
-přes kalné peřeje  
+  přes kalné peřeje  
 a nebylo ti rozumět,  
 znělo to jako  
 
