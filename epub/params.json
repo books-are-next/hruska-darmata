@@ -1,4 +1,5 @@
 {
+  "extractionComplete": true,
   "params": {
     "metadata": {
       "languageCode": "cs",
@@ -611,7 +612,7 @@
         "xhtml": "darmata_005.html"
       },
       {
-        "titleSuggest": "* * *",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "darmata_006.md",
         "xhtml": "darmata_006.html"
@@ -665,7 +666,7 @@
         "xhtml": "darmata_014.html"
       },
       {
-        "titleSuggest": "* * *",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "darmata_015.md",
         "xhtml": "darmata_015.html"
@@ -719,13 +720,13 @@
         "xhtml": "darmata_023.html"
       },
       {
-        "titleSuggest": "… se svěřují do péče matky",
+        "titleSuggest": "… se svěřují do péče matky",
         "subtitleSuggest": "",
         "filename": "darmata_024.md",
         "xhtml": "darmata_024.html"
       },
       {
-        "titleSuggest": "* * *",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "darmata_025.md",
         "xhtml": "darmata_025.html"
@@ -755,13 +756,13 @@
         "xhtml": "darmata_029.html"
       },
       {
-        "titleSuggest": "U hajzlu",
+        "titleSuggest": "U hajzlu",
         "subtitleSuggest": "",
         "filename": "darmata_030.md",
         "xhtml": "darmata_030.html"
       },
       {
-        "titleSuggest": "O život",
+        "titleSuggest": "O život",
         "subtitleSuggest": "",
         "filename": "darmata_031.md",
         "xhtml": "darmata_031.html"
@@ -779,7 +780,7 @@
         "xhtml": "darmata_033.html"
       },
       {
-        "titleSuggest": "* * *",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "darmata_034.md",
         "xhtml": "darmata_034.html"
@@ -893,6 +894,6 @@
       "user": "books-are-next",
       "repo": "hruska-darmata"
     },
-    "generatedAt": 1657185986518
+    "generatedAt": 1666350982741
   }
 }
